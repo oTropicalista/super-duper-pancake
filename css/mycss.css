@@ -1,0 +1,223 @@
+.body {
+    padding: 0%;
+}
+
+/* BOTÕES */
+.nav-btnstyle1 {
+    background-color:#10e1aa;
+    color:#F0F0F0;
+    border: 2px solid #10e1aa;
+    border-radius: 8px;
+    font-size: 1.25rem;
+    margin: 0 13px;
+}
+
+.nav-btnstyle1:hover {
+    background-color:#ffffff;
+    color:#10e1aa;
+    border: 2px solid #10e1aa;
+    border-radius: 8px;
+    font-size: 1.25rem;
+    margin: 0 13px;
+}
+
+.nav-btnstyle2 {
+    background-color:#f8f9fa;
+    color:#199FD4;
+    border-radius: 4px;
+    border: 2px solid #f8f9fa;
+}
+
+.nav-btnstyle2:hover {
+    background-color:#f8f9fa;
+    color:#199FD4;
+    border-radius: 4px;
+    border: 2px solid #199FD4;
+}
+
+.form-btnstyle {
+    background-color:#10e1aa;
+    color:#F0F0F0;
+    border-radius: 8px;
+    border: 2px solid #10e1aa;
+    /* margin: 0 13px; */
+    font-size: 1.25rem;
+    width: 65%;
+}
+
+.form-btnstyle:hover {
+    background-color:#ffffff;
+    color:#10e1aa;
+    border: 2px solid #10e1aa;
+    border-radius: 8px;
+    /* margin: 0 13px; */
+    font-size: 1.25rem;
+    width: 65%;
+}
+
+.hero-btnstyle {
+    background-color:#10e1aa;
+    color:#F0F0F0;
+    border-radius: 15px;
+    /*margin: 0 13px;*/
+    font-size: 1.25rem;
+    width: 55%;
+    height: 15mm;
+}
+
+.hero-btnstyle:hover {
+    background-color:#ffffff;
+    color:#10e1aa;
+    border: 2px solid #10e1aa;
+    border-radius: 15px;
+    /* margin: 0 13px; */
+    font-size: 1.25rem;
+    width: 55%;
+    height: 15mm;
+}
+
+.footer-btnstyle {
+    background-color:#10e1aa;
+    color:#F0F0F0;
+    border-radius: 8px;
+    border: 2px solid #10e1aa;
+    /* margin: 0 13px; */
+    font-size: 1rem;
+    width: 65%;
+}
+
+.footer-btnstyle:hover {
+    background-color:#f0f0f0;
+    color:#10e1aa;
+    border: 2px solid #10e1aa;
+    border-radius: 8px;
+    /* margin: 0 13px; */
+    font-size: 1rem;
+    width: 65%;
+}
+
+.nav.bg-site  {
+    background-color: black;
+}
+
+.btn.btn-colored {
+    color: #fff;
+    background-image: -webkit-gradient(linear,left top,right top,from(#1d398d),to(#00a8f8));
+    background-image: linear-gradient(90deg,#1d398d,#00a8f8);
+    -webkit-transition: all 150ms linear;
+    transition: all 150ms linear;
+    border: 1px solid;
+    background-clip: padding-box;
+}
+
+.btn.btn-colored:hover {
+    color: #fff;
+    background-image: -webkit-gradient(linear,left top,right top,from(#1d398d),to(#00a8f8));
+    background-image: linear-gradient(90deg,#ffffff,#00a8f8);
+    -webkit-transition: all 150ms linear;
+    transition: all 150ms linear;
+    border: 1px solid;
+    background-clip: padding-box;
+}
+
+.bg-tela2 {
+    background-color: #F0F0F0;
+    /*background-size: 100% 100%;
+    background-repeat: no-repeat;*/
+}
+
+.bg-tela3 {
+    background-color: #199FD4;
+}
+
+.bg-copyright {
+    background-color: #1589b7;
+}
+
+.page-section {
+  padding: 5rem 0;
+}
+
+.header-section {
+    background-image: url('../images/hero-image.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 9rem 0;
+  }
+
+.img-fluid50  {
+    max-width: 50%;
+    height: auto;
+}
+
+.img-fluid40  {
+    max-width: 40%;
+    height: auto;
+}
+
+.img-fluid15  {
+    max-width: 10%;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.card {
+    position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.p-2 {
+    padding: .5rem!important;
+}
+
+.input1 {
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+/* #calculadora {
+    width: 50%;
+} */
+
+/* FOOTER */
+.a-footer {
+    color: #000000;
+    margin-bottom: 1px;
+}
+
+.a-p {
+    color: #000000;
+    font-size: 1rem;
+}
+
+.p-copyright {
+    color: #000000;
+    font-size: 10pt;
+}

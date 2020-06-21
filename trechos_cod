@@ -1,0 +1,23 @@
+<!-- Scripts Bootstrap - jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+
+        <!-- Titulo-->
+            <h1>A melhor forma de transmitir </h1>
+            <h1>os dados de sua cooperativa</h1>
+            <h1>para o eSocial.</h1>
+            <!-- Conteudo -->
+            <div class="col-lg-4 mr-auto">
+                <p class="h2">Ferramenta flexível e de baixo custo que atende às exigências do eSocial de forma simples e sem
+                    complicações.</p>
+            </div>
+            <!-- <p class="h2">Ferramenta flexível e de baixo custo que atende às exigências do eSocial de forma simples e sem complicações.</p> -->
+
+            <div class="col-md-3 col-sm-3 col-xs-6"> <a href="#" class="btn btn-sm animated-button victoria-three">Register</a> </div>
